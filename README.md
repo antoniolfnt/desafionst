@@ -17,6 +17,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 > Fases de desenvolvimento
-1) EDA (analiseExp.ipynb)
-  - Inicialmente foi feito uma EDA para entendimento das bases, visualizar suas colunas, datatype e tamanho
-  - Posteriormente sua
+1) EDA (EDA.ipynb)
+  - Inicialmente foi feito uma EDA para entendimento das bases, visualizar suas colunas, datatype e tamanhos.
+  - Posteriormente foi feito uma análise, foi lembrado que irá ser trabalhado com bases muito maiores, mas no exemplo as bases estão em um formato e tamanho ok, então todo o desenvolvimento foi feito utilizando Pandas. Claro, Pandas não é escalável e poderia utilizar o Pyspark. Mas dado ao problema proposto, todas as transformações feitas em Pandas aqui neste desafio podem ser modificadas para Pyspark. (Não vamos matar uma formiga com um canhão)
+  -
