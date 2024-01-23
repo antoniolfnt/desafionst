@@ -1,7 +1,6 @@
 >Desafio proposto para o cargo de MLOps Nestlé, o desafio proposto consiste em:
-
->Você recebeu 6 bases distintas: Cargos, CEP, Clientes, Funcionários, Nível e PQ.
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Você recebeu 6 bases distintas: Cargos, CEP, Clientes, Funcionários, Nível e PQ
 - Lembre que somos a maior empresa de bens de consumo do mundo e que no dia a dia você irá trabalhar com bases muito maiores.
 - Must have: ETL e Documentação. 
 - Escolha uma linguagem para demonstrar a lógica (python, pyspark, scala ou R)
